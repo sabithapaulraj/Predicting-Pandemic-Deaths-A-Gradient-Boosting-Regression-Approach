@@ -5,24 +5,31 @@
 This project aims to predict the number of deaths during widespread pandemics, focusing on the COVID-19 pandemic in India from January 2020 to August 2021. Utilizing advanced AI/ML techniques, particularly Gradient Boosting Regression, the project develops predictive models to aid resource allocation and healthcare planning during crises.
 
 ## Key Features:
-```
-Dataset: Historical COVID-19 data including cases, recoveries, and deaths across Indian states/union territories.
 
-Methodology: Extensive preprocessing, feature engineering, model selection, and hyperparameter tuning.
+### Dataset: 
+Historical COVID-19 data including cases, recoveries, and deaths across Indian states/union territories.
 
-Evaluation Metric: Modified Mean Absolute Percentage Error (MMAPE) prioritizing accurate death predictions for effective resource management.
+### Methodology:
+Extensive preprocessing, feature engineering, model selection, and hyperparameter tuning.
 
-Models Explored: Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression.
+### Evaluation Metric: 
+Modified Mean Absolute Percentage Error (MMAPE) prioritizing accurate death predictions for effective resource management.
 
-Final Model: Gradient Boosting Regression with polynomial features and optimized hyperparameters.
+### Models Explored: 
+Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression.
 
-Performance: Achieved minimal errors with an MMAPE of 4705 on the test dataset, showcasing the model's effectiveness.
+### Final Model:
+Gradient Boosting Regression with polynomial features and optimized hyperparameters.
 
-```
+### Performance:
+Achieved minimal errors with an MMAPE of 4705 on the test dataset, showcasing the model's effectiveness.
+
+
 
 ## Architecture:
 The choice of Gradient Boosting Regressor is attributed to its ability to handle complex, non-linear data relationships, and robustness against overfitting. By combining weak learners iteratively, it forms a strong predictive model, facilitating precise predictions essential for healthcare resource planning.
-The Architectural Representation of the project is described below
+
+#### The Architectural Representation of the project is described below
 
 ![WhatsApp Image 2024-05-15 at 20 24 59_862aba83](https://github.com/sabithapaulraj/Predicting-Pandemic-Deaths-A-Gradient-Boosting-Regression-Approach/assets/118343379/e836bf2a-1817-4796-9f84-d0a028d92b1c)
 
