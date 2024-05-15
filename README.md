@@ -33,6 +33,10 @@ The choice of Gradient Boosting Regressor is attributed to its ability to handle
 
 ![WhatsApp Image 2024-05-15 at 20 24 59_862aba83](https://github.com/sabithapaulraj/Predicting-Pandemic-Deaths-A-Gradient-Boosting-Regression-Approach/assets/118343379/e836bf2a-1817-4796-9f84-d0a028d92b1c)
 
+## The Code for Model 
+https://github.com/sabithapaulraj/Predicting-Pandemic-Deaths-A-Gradient-Boosting-Regression-Approach/blob/main/TechathonProj.ipynb
 
 ## Results:
 The final model demonstrated strong predictive capability with minimal errors, showcasing its effectiveness in forecasting pandemic-related deaths. Key variables like date, population density, confirmed cases, and cured cases played crucial roles in predictions, aiding in resource allocation and planning.
+
+
